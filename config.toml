@@ -1,4 +1,4 @@
-baseURL = "https://ahmedprog.github.io//"
+baseURL = "https://ahmedprog.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-resume"
@@ -17,7 +17,7 @@ theme = "hugo-resume"
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
     showProjects = true
-    showOpenSource = true
+    showOpenSource = false
     showPublications = true
     showExperience = true
     showEducation = true

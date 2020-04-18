@@ -1,20 +1,38 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
+        "role":"Back-end Developer",
+        "company":"The Datum Company",
         "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "range":"October 2018 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
+        "role":"Backend Developer",
+        "company":"Neo-mega Solutions",
+        "summary":" Part time to support Edu System.",
+        "range":"October 2018 - Present"
+    },
+    {
+        "role":"Full-Stack Developer",
+        "company":"Neo-mega Solutions",
         "summary":"Expedited the synergies of collaborat    ive agile tooling.",
-        "range":"March 2014 - February 2016"
+        "range":"October 2017 - October 2018"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
+        "role":"Full-Stack Developer",
+        "company":"Freelance",
+        "summary":"To work at the position of back-end developer and contribute to the organization by using my skills in designing, programming and development. To acquire expertise in handling projects successfully under minimum supervision.",
+        "range":"July 2015 - Present"
+    },
+    {
+        "role":"Problem Solving - Quality Control",
+        "company":"General motors Egypt",
         "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "range":"March 2014 - August 2018"
+    },
+    {
+        "role":"Problem Solving - Quality Control",
+        "company":"General motors Egypt",
+        "summary":"Implemented continuous devops pipelines automationing",
+        "range":"March 2014 - August 2018"
     }
 ]
